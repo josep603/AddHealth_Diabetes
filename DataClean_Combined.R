@@ -8,9 +8,6 @@ library(haven)
 library(Hmisc)
 library(purrr)
 
-setwd("~/Desktop/UMN/C.Fall 2024/PUBH 7485 Methods for Causal Inference/Final Project")
-
-
 # Start the timer
 tic()
 
